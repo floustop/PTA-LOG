@@ -5,14 +5,14 @@ public class Main {
         Scanner sc=new Scanner(System.in);
         int M=sc.nextInt();
         int N=sc.nextInt();
-        if (M<N) { //保证 M > N , 否则 M 和 N 交换
+        if (M<N) {
             int t=M;
             M=N;
             N=t;
         }
 
         int x=M*N;
-        int y=M*N;
+        int y=M%N;
         while (y!=0) {
             M=N;
             N=y;
