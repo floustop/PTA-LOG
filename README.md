@@ -1,5 +1,12 @@
 # 这里是我在 PTA 上的 JAVA 练习
 
+> 所有效果请在配置完成 JAVA 的环境变量后 `cd` 到需要编译的那个源码
+> 执行如下命令
+
+```bash
+rm *.class && javac -encoding utf-8 Main.java  && java Main
+```
+
 - [练习一](ex01)
     1. [Programming in C is fun!](ex01/Ex01/Main.java)
     2. [计算摄氏温度](ex01/Ex02/Main.java)
