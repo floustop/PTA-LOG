@@ -37,4 +37,5 @@ rm *.class && javac -encoding utf-8 Main.java  && java Main
     1. [求奇数和](ex05/Ex01/Main.java)
     2. [求给定精度的简单交错序列部分和 ](ex05/Ex01/Main.java)
     3. [求整数的位数及各位数字之和](ex05/Ex01/Main.java)
-    - - [最大公约数和最小公倍数](ex05/Ex01/Main.java)
+    4. [最大公约数和最小公倍数](ex05/Ex01/Main.java)
+    5. [九九乘法表倒置](ex05/Ex05/Main.java)
