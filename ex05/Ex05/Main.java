@@ -1,4 +1,4 @@
-public class x9x9 {
+public class Main {
     public static void main(String[] args) {
             for (int i = 1; i <= 9; i++) { // 外层循环i，控制行数
                 for (int k = 1; k < i; k++) { // 内层循环k，控制每行空格数
