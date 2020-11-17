@@ -10,4 +10,4 @@ public class x9x9 {
                 System.out.println(); //每操作完一行换行
             }
     }
-}
+}()
